@@ -1,0 +1,42 @@
+Lab 1 - Specifications of a PC
+Windows based OS
+a)This pc / My computer  properties
+b)Device manager
+c)dxdiag(cmd)
+d)Systeminfo(cmd)
+e)msinfo32(cmd)
+
+without using OS
+-BIOS
+
+Linux
+a)lscpu(terminal)
+b)lshw-short
+
+IMAC(OS-X)
+a)About this pc
+b)Same commands in terminal
+
+
+How to write
+
+1)Draw the Neumann architecture and describe each block  
+2) Explain each block
+3) How to know specifications of a pc
+
+
+Assignment -
+
+1) Write down the specification or the configuration of your pc
+2) Draw and explain the memory heirarchy 
+3) Write a short note 
+a) BIOS
+b) C-MOS
+c) POST
+d) AT & ATX
+e) USB
+
+
+
+
+
